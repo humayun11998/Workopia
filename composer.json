@@ -1,0 +1,16 @@
+{
+    "name": "humayun11998/workopia",
+    "description": "Job Listing application",
+    "authors": [
+        {
+            "name": "Humayun Ahmed",
+            "email": "humayun11998@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Framework\\": "Framework/",
+            "App\\": "App/"
+        }
+    }
+}
