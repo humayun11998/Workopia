@@ -1,6 +1,6 @@
 # Workopia
 
-Workopia is a job listing website .It includes a custom Laravel-like router, controller classes, views, a database layer and a project structure using namespaces and PSR-4 autoloading. It highlights how to structure a PHP project without using any frameworks or libraries.
+Workopia is a job listing website. It includes a custom Laravel-like router, controller classes, views, a database layer and a project structure using namespaces and PSR-4 autoloading. It highlights how to structure a PHP project without using any frameworks or libraries.
 
 ### Requirements
 
@@ -46,7 +46,7 @@ DocumentRoot "/Applications/MAMP/htdocs/workopia/public"
 
 ##### Laragon
 
-If you are using Laragon, you can set right-click the icon in the system tray and go to `Apache > sites-enabled > auto.workopia.test.conf`. Your file may be named differently.
+If you are using Laragon, you can right-click the icon in the system tray and go to `Apache > sites-enabled > auto.workopia.test.conf`. Your file may be named differently.
 
 You can then set the document root. Here is an example:
 
