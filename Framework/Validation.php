@@ -52,9 +52,6 @@ public static function match($value1, $value2){
     $value2 = trim($value2);
 
     return $value1 === $value2;
-
-
-
 } 
 
 
